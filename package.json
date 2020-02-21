@@ -1,0 +1,28 @@
+{
+  "name": "react-pure-debug",
+  "version": "1.0.0",
+  "description": "This tool help you to debug why your PureComponent will render",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsellam/pure-debug.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "PureComponent",
+    "debug"
+  ],
+  "author": "Jérémie Sellam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsellam/pure-debug/issues"
+  },
+  "homepage": "https://github.com/jsellam/pure-debug#readme",
+  "peerDependencies": {
+    "react": "16.x"
+  }
+}
