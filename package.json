@@ -1,6 +1,6 @@
 {
   "name": "react-pure-debug",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This tool help you to debug why your PureComponent will render",
   "main": "index.js",
   "scripts": {
